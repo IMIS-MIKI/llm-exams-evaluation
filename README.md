@@ -1,5 +1,8 @@
 # LLM Exams Evaluation
 
+[![DOI](https://zenodo.org/badge/757313908.svg)](https://zenodo.org/doi/10.5281/zenodo.15268695)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](https://github.com/IMIS-MIKI/llm-exams-evaluation/blob/main/LICENSE)
+
 This repository accompanies the paper *"Pass or Fail? Lessons from Evaluating LLMs on Medical Exams"*. It documents a systematic evaluation of multilingual and on-premise large language models (LLMs) applied to curated German and Portuguese medical exam datasets.
 
 We evaluate several models (e.g., LLaMA, Mistral, Qwen2.5, Gemma, and GPT-4o) and facilitated the use of retrieval-augmented generation (RAG).
