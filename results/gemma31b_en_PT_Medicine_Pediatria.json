@@ -1,0 +1,1 @@
+{"model": "gemma3:1b", "subject": "Medicine_Pediatria", "answers": {"1": [["C"], ["A", "B", "C", "D"]], "2": [["B"], ["A", "B"]], "6": [["A"], ["A"]], "7": [["A"], ["A"]], "8": [["A"], ["Doença de Kawasaki"]], "9": [["A"], ["A"]], "10": [["E"], ["A"]], "12": [["B"], ["A"]], "13": [["A"], ["A"]]}, "duration": 3.459886, "language": "PT", "language_prompt": "en"}

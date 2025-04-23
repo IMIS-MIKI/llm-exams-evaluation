@@ -1,0 +1,1 @@
+{"model": "deepseek-r1:70b", "subject": "Medicine_Pediatria", "answers": {"1": [["C"], ["B"]], "2": [["B"], ["Z"]], "6": [["A"], ["Z"]], "7": [["A"], ["Z"]], "8": [["A"], ["Z"]], "9": [["A"], ["Z"]], "10": [["E"], ["Z"]], "12": [["B"], ["Z"]], "13": [["A"], ["Z"]]}, "duration": 21.618638, "language": "PT", "language_prompt": "en"}

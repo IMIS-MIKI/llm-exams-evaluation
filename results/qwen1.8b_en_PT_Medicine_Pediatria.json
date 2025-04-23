@@ -1,0 +1,1 @@
+{"model": "qwen:1.8b", "subject": "Medicine_Pediatria", "answers": {"1": [["C"], ["Z"]], "2": [["B"], ["Z"]], "6": [["A"], ["Z"]], "7": [["A"], ["Z"]], "8": [["A"], ["Z"]], "9": [["A"], ["Z"]], "10": [["E"], ["Z"]], "12": [["B"], ["Z"]], "13": [["A"], ["Z"]]}, "duration": 7.541194, "language": "PT", "language_prompt": "en"}

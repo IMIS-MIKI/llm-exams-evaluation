@@ -1,0 +1,1 @@
+{"model": "gemma3:1b", "subject": "Medicine_Pediatria", "answers": {"1": [["C"], ["12 anos"]], "2": [["B"], ["B"]], "6": [["A"], ["A"]], "7": [["A"], ["A"]], "8": [["A"], ["A"]], "9": [["A"], ["Febre da carraça"]], "10": [["E"], ["Anti-rotavírus"]], "12": [["B"], ["A"]], "13": [["A"], ["Dificesce prolongado"]]}, "duration": 5.665399, "language": "PT", "language_prompt": "pt"}

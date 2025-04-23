@@ -1,0 +1,25 @@
+{
+    "creators":
+    [
+        {
+            "affiliation": "Institute for Medical Informatics and Statistics (IMIS), Kiel University and University Hospital Schleswig-Holstein, Germany",
+            "name": "Macedo, Mario",
+            "orcid": "0009-0001-5309-2194"
+        },
+        {
+            "affiliation": "Institute for Medical Informatics and Statistics (IMIS), Kiel University and University Hospital Schleswig-Holstein, Germany",
+            "name": "Ulrich, Hannes",
+            "orcid": "0000-0002-8349-6798"
+        }
+    ],
+    "description": "Evaluation of LLMs using medical exams",
+    "keywords":
+    [
+        "Natural Language Processing",
+        "Artificial Intelligence",
+        "Large Language Models",
+        "Retrieval-Augmented Generation"
+    ],
+    "title": "llm-exams-evaluation",
+    "upload_type": "software"
+}

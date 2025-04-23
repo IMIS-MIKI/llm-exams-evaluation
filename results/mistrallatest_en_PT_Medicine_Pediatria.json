@@ -1,0 +1,1 @@
+{"model": "mistral:latest", "subject": "Medicine_Pediatria", "answers": {"1": [["C"], ["A", "B", "C", "D"]], "2": [["B"], ["B"]], "6": [["A"], ["A"]], "7": [["A"], ["A"]], "8": [["A"], ["A"]], "9": [["A"], ["A", "B", "C", "D", "E"]], "10": [["E"], ["D"]], "12": [["B"], ["A"]], "13": [["A"], ["A"]]}, "duration": 2.489165, "language": "PT", "language_prompt": "en"}
