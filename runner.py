@@ -1,5 +1,5 @@
 from tqdm import tqdm
-from pipeline import *
+from utils.pipeline import *
 from dotenv import load_dotenv
 from datetime import datetime
 from llama_index.core import SimpleDirectoryReader

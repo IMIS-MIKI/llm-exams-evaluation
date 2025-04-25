@@ -1,10 +1,10 @@
 from tqdm import tqdm
-from pipeline import *
+from utils.pipeline import *
 from dotenv import load_dotenv
 from datetime import datetime
-from evaluation import calculate_acc
+from utils.evaluation import calculate_acc
 from llama_index.retrievers.bm25 import BM25Retriever
-from rag_documents import get_nodes_by_subject, get_document_by_subject
+from utils.rag_documents import get_nodes_by_subject, get_document_by_subject
 
 import os
 import json

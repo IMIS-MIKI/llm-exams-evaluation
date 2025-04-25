@@ -1,4 +1,4 @@
-from evaluation import calculate_acc
+from utils.evaluation import calculate_acc
 from tabulate import tabulate
 import matplotlib
 import matplotlib.pyplot as plt
